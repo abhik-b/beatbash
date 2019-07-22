@@ -32,7 +32,7 @@ header p{
     display: flex;
 }
 .pads >div{
-    height: 90px;
+    height: 250px;
     width: 100px;
     flex: 1;
 }
